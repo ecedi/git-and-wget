@@ -1,3 +1,3 @@
-FROM alphine
+FROM alpine
 
 RUN apk add --no-cache inotify-tools git
